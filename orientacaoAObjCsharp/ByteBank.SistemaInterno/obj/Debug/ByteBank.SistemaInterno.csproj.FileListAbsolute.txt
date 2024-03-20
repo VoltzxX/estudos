@@ -1,0 +1,10 @@
+D:\csharp\orientcaoAObj\ByteBank.SistemaInterno\bin\Debug\ByteBank.SistemaInterno.exe.config
+D:\csharp\orientcaoAObj\ByteBank.SistemaInterno\bin\Debug\ByteBank.SistemaInterno.exe
+D:\csharp\orientcaoAObj\ByteBank.SistemaInterno\bin\Debug\ByteBank.SistemaInterno.pdb
+D:\csharp\orientcaoAObj\ByteBank.SistemaInterno\bin\Debug\ByteBank.Modelos.dll
+D:\csharp\orientcaoAObj\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.csproj.AssemblyReference.cache
+D:\csharp\orientcaoAObj\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.csproj.CoreCompileInputs.cache
+D:\csharp\orientcaoAObj\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.csproj.CopyComplete
+D:\csharp\orientcaoAObj\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.exe
+D:\csharp\orientcaoAObj\ByteBank.SistemaInterno\obj\Debug\ByteBank.SistemaInterno.pdb
+D:\csharp\orientcaoAObj\ByteBank.SistemaInterno\bin\Debug\ByteBank.Modelos.xml

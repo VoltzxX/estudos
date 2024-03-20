@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6aKETlI/6bhLHv7al5iA3RjewatLk7/Llb8BfRpXZm2glKEcw8odevUVHZQ8PJDwURfWUGTv1a82LaXi5uQxgw==",
+  "success": true,
+  "projectFilePath": "D:\\csharp\\orientcaoAObj\\ByteBank.Modelos\\ByteBank.Modelos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MatheusLima\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MatheusLima\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

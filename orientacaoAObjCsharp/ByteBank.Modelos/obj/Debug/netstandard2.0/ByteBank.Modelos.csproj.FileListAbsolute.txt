@@ -1,0 +1,12 @@
+D:\csharp\orientcaoAObj\ByteBank.Modelos\bin\Debug\netstandard2.0\ByteBank.Modelos.deps.json
+D:\csharp\orientcaoAObj\ByteBank.Modelos\bin\Debug\netstandard2.0\ByteBank.Modelos.dll
+D:\csharp\orientcaoAObj\ByteBank.Modelos\bin\Debug\netstandard2.0\ByteBank.Modelos.pdb
+D:\csharp\orientcaoAObj\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.csproj.AssemblyReference.cache
+D:\csharp\orientcaoAObj\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\orientcaoAObj\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.AssemblyInfoInputs.cache
+D:\csharp\orientcaoAObj\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.AssemblyInfo.cs
+D:\csharp\orientcaoAObj\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+D:\csharp\orientcaoAObj\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.dll
+D:\csharp\orientcaoAObj\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.pdb
+D:\csharp\orientcaoAObj\ByteBank.Modelos\bin\Debug\netstandard2.0\ByteBank.Modelos.xml
+D:\csharp\orientcaoAObj\ByteBank.Modelos\obj\Debug\netstandard2.0\ByteBank.Modelos.xml
