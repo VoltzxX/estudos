@@ -1,0 +1,7 @@
+D:\csharp\estudos\orientacaoAObjCsharp\listaSomenteLeitura\bin\Debug\listaSomenteLeitura.exe.config
+D:\csharp\estudos\orientacaoAObjCsharp\listaSomenteLeitura\bin\Debug\listaSomenteLeitura.exe
+D:\csharp\estudos\orientacaoAObjCsharp\listaSomenteLeitura\bin\Debug\listaSomenteLeitura.pdb
+D:\csharp\estudos\orientacaoAObjCsharp\listaSomenteLeitura\obj\Debug\listaSomenteLeitura.csproj.AssemblyReference.cache
+D:\csharp\estudos\orientacaoAObjCsharp\listaSomenteLeitura\obj\Debug\listaSomenteLeitura.csproj.CoreCompileInputs.cache
+D:\csharp\estudos\orientacaoAObjCsharp\listaSomenteLeitura\obj\Debug\listaSomenteLeitura.exe
+D:\csharp\estudos\orientacaoAObjCsharp\listaSomenteLeitura\obj\Debug\listaSomenteLeitura.pdb

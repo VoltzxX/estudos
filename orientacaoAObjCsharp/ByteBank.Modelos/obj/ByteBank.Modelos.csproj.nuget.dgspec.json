@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\csharp\\orientcaoAObj\\ByteBank.Modelos\\ByteBank.Modelos.csproj": {}
+    "D:\\csharp\\estudos\\orientacaoAObjCsharp\\ByteBank.Modelos\\ByteBank.Modelos.csproj": {}
   },
   "projects": {
-    "D:\\csharp\\orientcaoAObj\\ByteBank.Modelos\\ByteBank.Modelos.csproj": {
+    "D:\\csharp\\estudos\\orientacaoAObjCsharp\\ByteBank.Modelos\\ByteBank.Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\csharp\\orientcaoAObj\\ByteBank.Modelos\\ByteBank.Modelos.csproj",
+        "projectUniqueName": "D:\\csharp\\estudos\\orientacaoAObjCsharp\\ByteBank.Modelos\\ByteBank.Modelos.csproj",
         "projectName": "ByteBank.Modelos",
-        "projectPath": "D:\\csharp\\orientcaoAObj\\ByteBank.Modelos\\ByteBank.Modelos.csproj",
+        "projectPath": "D:\\csharp\\estudos\\orientacaoAObjCsharp\\ByteBank.Modelos\\ByteBank.Modelos.csproj",
         "packagesPath": "C:\\Users\\MatheusLima\\.nuget\\packages\\",
-        "outputPath": "D:\\csharp\\orientcaoAObj\\ByteBank.Modelos\\obj\\",
+        "outputPath": "D:\\csharp\\estudos\\orientacaoAObjCsharp\\ByteBank.Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MatheusLima\\AppData\\Roaming\\NuGet\\NuGet.Config",

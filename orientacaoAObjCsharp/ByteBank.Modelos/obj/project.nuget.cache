@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6aKETlI/6bhLHv7al5iA3RjewatLk7/Llb8BfRpXZm2glKEcw8odevUVHZQ8PJDwURfWUGTv1a82LaXi5uQxgw==",
+  "dgSpecHash": "7k6KSE84oEIMaLUApPkMDeSA3c3Jc/pBhZ/ZcZC1W0lkNzY0UaLWP3Vox3RXSfUeVJDkdh4g10C9aWyBAUDlNg==",
   "success": true,
-  "projectFilePath": "D:\\csharp\\orientcaoAObj\\ByteBank.Modelos\\ByteBank.Modelos.csproj",
+  "projectFilePath": "D:\\csharp\\estudos\\orientacaoAObjCsharp\\ByteBank.Modelos\\ByteBank.Modelos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MatheusLima\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\MatheusLima\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

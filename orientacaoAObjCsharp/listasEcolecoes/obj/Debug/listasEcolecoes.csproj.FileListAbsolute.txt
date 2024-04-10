@@ -1,0 +1,7 @@
+D:\csharp\estudos\orientacaoAObjCsharp\listasEcolecoes\bin\Debug\listasEcolecoes.exe.config
+D:\csharp\estudos\orientacaoAObjCsharp\listasEcolecoes\bin\Debug\listasEcolecoes.exe
+D:\csharp\estudos\orientacaoAObjCsharp\listasEcolecoes\bin\Debug\listasEcolecoes.pdb
+D:\csharp\estudos\orientacaoAObjCsharp\listasEcolecoes\obj\Debug\listasEcolecoes.csproj.AssemblyReference.cache
+D:\csharp\estudos\orientacaoAObjCsharp\listasEcolecoes\obj\Debug\listasEcolecoes.csproj.CoreCompileInputs.cache
+D:\csharp\estudos\orientacaoAObjCsharp\listasEcolecoes\obj\Debug\listasEcolecoes.exe
+D:\csharp\estudos\orientacaoAObjCsharp\listasEcolecoes\obj\Debug\listasEcolecoes.pdb

@@ -1,0 +1,7 @@
+D:\csharp\estudos\orientacaoAObjCsharp\lista\bin\Debug\lista.exe.config
+D:\csharp\estudos\orientacaoAObjCsharp\lista\bin\Debug\lista.exe
+D:\csharp\estudos\orientacaoAObjCsharp\lista\bin\Debug\lista.pdb
+D:\csharp\estudos\orientacaoAObjCsharp\lista\obj\Debug\lista.csproj.AssemblyReference.cache
+D:\csharp\estudos\orientacaoAObjCsharp\lista\obj\Debug\lista.csproj.CoreCompileInputs.cache
+D:\csharp\estudos\orientacaoAObjCsharp\lista\obj\Debug\lista.exe
+D:\csharp\estudos\orientacaoAObjCsharp\lista\obj\Debug\lista.pdb

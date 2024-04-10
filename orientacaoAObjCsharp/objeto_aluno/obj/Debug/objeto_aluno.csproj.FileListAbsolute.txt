@@ -1,0 +1,7 @@
+D:\csharp\estudos\orientacaoAObjCsharp\objeto_aluno\obj\Debug\objeto_aluno.csproj.AssemblyReference.cache
+D:\csharp\estudos\orientacaoAObjCsharp\objeto_aluno\obj\Debug\objeto_aluno.csproj.CoreCompileInputs.cache
+D:\csharp\estudos\orientacaoAObjCsharp\objeto_aluno\bin\Debug\objeto_aluno.exe.config
+D:\csharp\estudos\orientacaoAObjCsharp\objeto_aluno\bin\Debug\objeto_aluno.exe
+D:\csharp\estudos\orientacaoAObjCsharp\objeto_aluno\bin\Debug\objeto_aluno.pdb
+D:\csharp\estudos\orientacaoAObjCsharp\objeto_aluno\obj\Debug\objeto_aluno.exe
+D:\csharp\estudos\orientacaoAObjCsharp\objeto_aluno\obj\Debug\objeto_aluno.pdb
